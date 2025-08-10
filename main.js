@@ -50,7 +50,7 @@ let global = {
 	autoStakingUsdcAmount: 0.25,
 	autoStakingUsdtAmount: 0.25,
 	autoStakingMusdAmount: 0.25,
-	autoStakingUseProxy: true,
+	autoStakingUseProxy: false,
 	autoStakingRotateProxy: false,
 	domainMintCount: 1,
 	openFiTxCount: 1, // Added OpenFi transaction count
